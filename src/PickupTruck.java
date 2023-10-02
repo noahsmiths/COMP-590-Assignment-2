@@ -9,6 +9,6 @@ class PickupTruck extends Vehicle {
 
     @Override
     public String drive() {
-        return "Wow, the pickup trick is starting to go!";
+        return "Wow, the pickup truck is starting to go!";
     }
 }
